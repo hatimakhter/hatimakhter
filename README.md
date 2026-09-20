@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hatimakhter" alt="hatimakhter" /></a> </p>
 
-- 🌱 I’m currently learning **Web Development.**
+- 🌱 I’m currently learning **Java Fullstack Development.**
 
 - 📫 How to reach me **hatimakhter5@gmail.com**
 
